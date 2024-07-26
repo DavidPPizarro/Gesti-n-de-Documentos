@@ -14,13 +14,13 @@ Este sistema está diseñado para almacenar y encriptar archivos PDF de manera s
 ## 📸 **Capturas de Pantalla**
 
 ### 🖥️ Interfaz Principal
-![Interfaz Principal](src/images/login_screen.png)
+![Interfaz Principal](public/images/login_screen.png)
 
 ### 📂 Gestión de PDFs
-![Gestión de PDFs](src/images/menu1_screen.png)
+![Gestión de PDFs](public/images/menu1_screen.png)
 
 ### 🔑 Encriptación de Archivos
-![Encriptación de Archivos](src/images/menu2_screen.png)
+![Encriptación de Archivos](public/images/menu2_screen.png)
 
 ## ⚙️ **Instalación**
 
